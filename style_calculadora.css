@@ -1,0 +1,21 @@
+body
+    {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 18px;
+        font-weight: 500;
+        width:80%;
+        margin-left: auto;
+        margin-right:auto;
+        background-image: url(foto2.jpg);
+    }
+    h1 { color: #1a2750; }
+    h2 { color: #134085; }
+    h3 { color: #134085; }
+    
+html {
+        text-align: center;
+      }
+
+.someHeader {
+        height: 100px;
+    }
